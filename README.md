@@ -20,3 +20,13 @@ End-to-end vulnerability lifecycle management using Tenable to identify, assess,
 Threat Hunting with KQL
 
 Utilizing Azure Log Analytics and Microsoft Defender data to detect lateral movement and persistence within Windows environments.
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
