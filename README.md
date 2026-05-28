@@ -29,4 +29,4 @@ Utilizing Azure Log Analytics and Microsoft Defender data to detect lateral move
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamesPabon11/Threat-Hunting-Scenario-tor)**
