@@ -31,3 +31,5 @@ Utilizing Azure Log Analytics and Microsoft Defender data to detect lateral move
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamesPabon11/Threat-Hunting-Scenario-tor)**
 
 - **[Password Spray To Full Compromise](https://github.com/JamesPabon11/Pwd-Spray-to-Full-Compromise)**
+
+- **[Just Another Day Part 2](https://github.com/JamesPabon11/Just-Another-Day-Part-2)**
